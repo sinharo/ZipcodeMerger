@@ -52,7 +52,7 @@ _Tests:_
 
 _Sample outputs:_
 
-  ![result]()
+  ![result](https://github.com/sinharo/ZipcodeMerger/blob/master/Result.jpg)
   
   
   
